@@ -1,0 +1,33 @@
+College,Measure,Credential,Demand,Supply
+Bates Technical College,Credentials,AA,15.0,10.0
+Bates Technical College,Credentials,Cert - Initial,1590.0,616.0
+Bates Technical College,Credentials,Cert - Short,401.0,198.0
+Bates Technical College,Credentials,Cert - State,61.0,42.0
+Bates Technical College,Staff,AA,15.0,10.0
+Bates Technical College,Staff,Cert - Initial,1189.0,418.0
+Bates Technical College,Staff,Cert - Short,340.0,156.0
+Bates Technical College,Staff,Cert - State,46.0,32.0
+Centralia College,Credentials,AA,5.0,5.0
+Centralia College,Credentials,Cert - Initial,420.0,736.0
+Centralia College,Credentials,Cert - Short,103.0,73.0
+Centralia College,Credentials,Cert - State,19.0,56.0
+Centralia College,Staff,AA,5.0,5.0
+Centralia College,Staff,Cert - Initial,317.0,663.0
+Centralia College,Staff,Cert - Short,84.0,17.0
+Centralia College,Staff,Cert - State,14.0,51.0
+Seattle Central College,Credentials,AA,14.0,6.0
+Seattle Central College,Credentials,Cert - Initial,2268.0,497.0
+Seattle Central College,Credentials,Cert - Short,602.0,117.0
+Seattle Central College,Credentials,Cert - State,95.0,33.0
+Seattle Central College,Staff,AA,14.0,6.0
+Seattle Central College,Staff,Cert - Initial,1666.0,380.0
+Seattle Central College,Staff,Cert - Short,507.0,84.0
+Seattle Central College,Staff,Cert - State,81.0,27.0
+Yakima Valley College,Credentials,AA,51.0,8.0
+Yakima Valley College,Credentials,Cert - Initial,1442.0,837.0
+Yakima Valley College,Credentials,Cert - Short,391.0,264.0
+Yakima Valley College,Credentials,Cert - State,101.0,71.0
+Yakima Valley College,Staff,AA,51.0,8.0
+Yakima Valley College,Staff,Cert - Initial,1051.0,573.0
+Yakima Valley College,Staff,Cert - Short,290.0,193.0
+Yakima Valley College,Staff,Cert - State,50.0,63.0
